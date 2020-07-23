@@ -1,0 +1,15 @@
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.Encryption.MachineKey.Tests.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.Encryption.MachineKey.Tests.pdb
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.Encryption.MachineKey.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\xunit.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\xunit.extensions.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.Encryption.MachineKey.pdb
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.Encryption.MachineKey.xml
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\xunit.xml
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\bin\Debug\xunit.extensions.xml
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\obj\Debug\Nancy.Encryption.MachineKey.Tests.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\obj\Debug\Nancy.Encryption.MachineKey.Tests.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey.Tests\obj\Debug\Nancy.Encryption.MachineKey.Tests.pdb

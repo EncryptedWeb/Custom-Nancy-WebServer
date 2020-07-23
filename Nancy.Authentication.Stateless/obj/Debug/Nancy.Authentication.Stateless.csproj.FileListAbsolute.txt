@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\bin\Debug\Nancy.Authentication.Stateless.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\bin\Debug\Nancy.Authentication.Stateless.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\obj\Debug\Nancy.Authentication.Stateless.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\obj\Debug\Nancy.Authentication.Stateless.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\bin\Debug\Nancy.Authentication.Stateless.XML
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Stateless\obj\Debug\Nancy.Authentication.Stateless.csprojResolveAssemblyReference.cache

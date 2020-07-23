@@ -1,0 +1,8 @@
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\bin\Debug\Nancy.Authentication.Token.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\bin\Debug\Nancy.Authentication.Token.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\obj\Debug\Nancy.Authentication.Token.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\obj\Debug\Nancy.Authentication.Token.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Token\obj\Debug\Nancy.Authentication.Token.pdb

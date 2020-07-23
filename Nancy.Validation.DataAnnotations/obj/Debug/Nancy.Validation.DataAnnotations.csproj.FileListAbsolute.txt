@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\bin\Debug\Nancy.Validation.DataAnnotations.dll
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\bin\Debug\Nancy.Validation.DataAnnotations.pdb
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\obj\Debug\Nancy.Validation.DataAnnotations.dll
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\obj\Debug\Nancy.Validation.DataAnnotations.pdb
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\bin\Debug\Nancy.Validation.DataAnnotations.XML
+D:\Other\Programming\Nancy\src\Nancy.Validation.DataAnnotations\obj\Debug\Nancy.Validation.DataAnnotations.csprojResolveAssemblyReference.cache

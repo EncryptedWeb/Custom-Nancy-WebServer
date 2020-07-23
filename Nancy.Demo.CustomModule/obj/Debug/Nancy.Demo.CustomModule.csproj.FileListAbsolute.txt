@@ -1,0 +1,11 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.Demo.CustomModule.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.Demo.CustomModule.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.Hosting.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.Hosting.Aspnet.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\bin\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\obj\Debug\Nancy.Demo.CustomModule.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\obj\Debug\Nancy.Demo.CustomModule.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.CustomModule\obj\Debug\Nancy.Demo.CustomModule.csprojResolveAssemblyReference.cache

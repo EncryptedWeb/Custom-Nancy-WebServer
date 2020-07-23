@@ -1,0 +1,10 @@
+D:\Other\Programming\Nancy\src\Nancy.Owin\bin\Debug\Nancy.Owin.dll
+D:\Other\Programming\Nancy\src\Nancy.Owin\bin\Debug\Nancy.Owin.pdb
+D:\Other\Programming\Nancy\src\Nancy.Owin\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Owin\bin\Debug\Owin.dll
+D:\Other\Programming\Nancy\src\Nancy.Owin\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Owin\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Owin\obj\Debug\Nancy.Owin.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Owin\obj\Debug\Nancy.Owin.dll
+D:\Other\Programming\Nancy\src\Nancy.Owin\obj\Debug\Nancy.Owin.pdb
+D:\Other\Programming\Nancy\src\Nancy.Owin\bin\Debug\Nancy.Owin.XML

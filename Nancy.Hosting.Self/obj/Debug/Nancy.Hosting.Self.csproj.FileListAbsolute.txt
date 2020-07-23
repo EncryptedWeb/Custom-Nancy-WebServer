@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\bin\Debug\Nancy.Hosting.Self.dll
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\bin\Debug\Nancy.Hosting.Self.pdb
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\obj\Debug\Nancy.Hosting.Self.dll
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\obj\Debug\Nancy.Hosting.Self.pdb
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\bin\Debug\Nancy.Hosting.Self.XML
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Self\obj\Debug\Nancy.Hosting.Self.csprojResolveAssemblyReference.cache

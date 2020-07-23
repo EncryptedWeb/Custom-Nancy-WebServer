@@ -1,0 +1,12 @@
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\Nancy.ViewEngines.Markdown.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\Nancy.ViewEngines.Markdown.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\MarkdownSharp.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\MarkdownSharp.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\MarkdownSharp.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\obj\Debug\Nancy.ViewEngines.Markdown.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\obj\Debug\Nancy.ViewEngines.Markdown.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\obj\Debug\Nancy.ViewEngines.Markdown.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Markdown\bin\Debug\Nancy.ViewEngines.Markdown.XML

@@ -1,0 +1,7 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Stateless.Website\bin\index.html
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Stateless.Website\bin\login.html
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Stateless.Website\bin\secure.html
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Stateless.Website\bin\Nancy.Demo.Authentication.Stateless.Website.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Stateless.Website\bin\Nancy.Demo.Authentication.Stateless.Website.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Stateless.Website\obj\Debug\Nancy.Demo.Authentication.Stateless.Website.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Stateless.Website\obj\Debug\Nancy.Demo.Authentication.Stateless.Website.pdb

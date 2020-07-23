@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Release\Nancy.ViewEngines.Razor.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Release\Nancy.ViewEngines.Razor.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Release\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Release\System.Web.Razor.Unofficial.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Release\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Release\System.Web.Razor.Unofficial.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\obj\Release\Nancy.ViewEngines.Razor.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\obj\Release\Nancy.ViewEngines.Razor.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\obj\Release\Nancy.ViewEngines.Razor.pdb

@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Debug\Nancy.ViewEngines.Razor.XML
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Debug\Nancy.ViewEngines.Razor.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Debug\Nancy.ViewEngines.Razor.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Debug\System.Web.Razor.Unofficial.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\bin\Debug\System.Web.Razor.Unofficial.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\obj\Debug\Nancy.ViewEngines.Razor.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor\obj\Debug\Nancy.ViewEngines.Razor.pdb

@@ -1,0 +1,14 @@
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.ViewEngines.Razor.BuildProviders.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.ViewEngines.Razor.BuildProviders.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.ViewEngines.Razor.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\System.Web.Razor.Unofficial.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.ViewEngines.Razor.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.ViewEngines.Razor.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\System.Web.Razor.Unofficial.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\obj\Debug\Nancy.ViewEngines.Razor.BuildProviders.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\obj\Debug\Nancy.ViewEngines.Razor.BuildProviders.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\obj\Debug\Nancy.ViewEngines.Razor.BuildProviders.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Razor.BuildProviders\bin\Debug\Nancy.ViewEngines.Razor.BuildProviders.XML

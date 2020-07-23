@@ -1,0 +1,17 @@
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.Authentication.Forms.Tests.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.Authentication.Forms.Tests.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\FakeItEasy.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.Authentication.Forms.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\xunit.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\xunit.extensions.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.Authentication.Forms.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.Authentication.Forms.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\FakeItEasy.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\xunit.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\bin\Debug\xunit.extensions.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\obj\Debug\Nancy.Authentication.Forms.Tests.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\obj\Debug\Nancy.Authentication.Forms.Tests.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms.Tests\obj\Debug\Nancy.Authentication.Forms.Tests.csprojResolveAssemblyReference.cache

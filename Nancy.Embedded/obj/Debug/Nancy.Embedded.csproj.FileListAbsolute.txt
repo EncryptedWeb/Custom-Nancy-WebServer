@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.Embedded\bin\Debug\Nancy.Embedded.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded\bin\Debug\Nancy.Embedded.pdb
+D:\Other\Programming\Nancy\src\Nancy.Embedded\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Embedded\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Embedded\obj\Debug\Nancy.Embedded.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded\obj\Debug\Nancy.Embedded.pdb
+D:\Other\Programming\Nancy\src\Nancy.Embedded\bin\Debug\Nancy.Embedded.XML
+D:\Other\Programming\Nancy\src\Nancy.Embedded\obj\Debug\Nancy.Embedded.csprojResolveAssemblyReference.cache

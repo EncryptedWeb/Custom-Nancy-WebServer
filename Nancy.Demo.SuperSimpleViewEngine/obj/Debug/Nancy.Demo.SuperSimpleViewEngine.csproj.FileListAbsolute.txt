@@ -1,0 +1,11 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.Demo.SuperSimpleViewEngine.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.Demo.SuperSimpleViewEngine.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.Hosting.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.Hosting.Aspnet.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\bin\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\obj\Debug\Nancy.Demo.SuperSimpleViewEngine.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\obj\Debug\Nancy.Demo.SuperSimpleViewEngine.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SuperSimpleViewEngine\obj\Debug\Nancy.Demo.SuperSimpleViewEngine.csprojResolveAssemblyReference.cache

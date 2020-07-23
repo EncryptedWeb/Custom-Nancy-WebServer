@@ -1,0 +1,8 @@
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\bin\Debug\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\bin\Debug\Nancy.Hosting.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\obj\Debug\Nancy.Hosting.Aspnet.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\obj\Debug\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Hosting.Aspnet\obj\Debug\Nancy.Hosting.Aspnet.pdb

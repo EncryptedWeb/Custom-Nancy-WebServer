@@ -1,0 +1,15 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.Demo.SparkViewEngine.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.Demo.SparkViewEngine.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.ViewEngines.Spark.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Spark.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.Hosting.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.Hosting.Aspnet.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.ViewEngines.Spark.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.ViewEngines.Spark.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\bin\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\obj\Debug\Nancy.Demo.SparkViewEngine.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\obj\Debug\Nancy.Demo.SparkViewEngine.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.SparkViewEngine\obj\Debug\Nancy.Demo.SparkViewEngine.csprojResolveAssemblyReference.cache

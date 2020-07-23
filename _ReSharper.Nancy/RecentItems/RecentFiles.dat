@@ -1,0 +1,59 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="BAE74CD5-57C2-40E3-8F7A-EDE5721C2ACC/f:StatelessAuthBootstrapper.cs" caret="0" fromTop="0" />
+    <File id="911196F4-B88F-4940-B1FD-D30F5290D06D/f:SecureModule.cs" caret="0" fromTop="0" />
+    <File id="911196F4-B88F-4940-B1FD-D30F5290D06D/f:UserValidator.cs" caret="0" fromTop="0" />
+    <File id="911196F4-B88F-4940-B1FD-D30F5290D06D/f:MainModule.cs" caret="0" fromTop="0" />
+    <File id="911196F4-B88F-4940-B1FD-D30F5290D06D/f:AuthenticationBootstrapper.cs" caret="0" fromTop="0" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:TokenAuthBootstrapper.cs" caret="0" fromTop="0" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:Program.cs" caret="0" fromTop="0" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:DemoUserIdentity.cs" caret="0" fromTop="0" />
+    <File id="911196F4-B88F-4940-B1FD-D30F5290D06D/f:DemoUserIdentity.cs" caret="0" fromTop="0" />
+    <File id="34576216-0DCA-4B0F-A0DC-9075E75A676F/f:BeforePipeline.cs" caret="0" fromTop="0" />
+    <File id="34576216-0DCA-4B0F-A0DC-9075E75A676F/d:Extensions/f:ModuleExtensions.cs" caret="0" fromTop="0" />
+    <File id="34576216-0DCA-4B0F-A0DC-9075E75A676F/d:TinyIoc/f:TinyIoC.cs" caret="0" fromTop="0" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:UserDatabase.cs" caret="0" fromTop="0" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:app.config" caret="0" fromTop="0" />
+    <File id="9121DA01-7BFD-49F0-9937-0D3E7875ADB9/f:LoginFixture.cs" caret="0" fromTop="0" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthenticationBootstrapper.cs" caret="0" fromTop="0" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:VerySecureModule.cs" caret="0" fromTop="0" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:UserDatabase.cs" caret="0" fromTop="0" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:SecureModule.cs" caret="0" fromTop="0" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:MainModule.cs" caret="0" fromTop="0" />
+    <File id="3C131D45-AF1D-4659-8B26-A9F55EED0D20/f:TokenAuthenticationFixture.cs" caret="0" fromTop="0" />
+    <File id="34576216-0DCA-4B0F-A0DC-9075E75A676F/d:Conventions/f:BuiltInCultureConventions.cs" caret="3645" fromTop="22" />
+    <File id="34576216-0DCA-4B0F-A0DC-9075E75A676F/d:Conventions/f:DefaultCultureConventions.cs" caret="1625" fromTop="18" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:UserValidator.cs" caret="419" fromTop="11" />
+    <File id="34576216-0DCA-4B0F-A0DC-9075E75A676F/d:Diagnostics/f:DefaultRequestTracing.cs" caret="872" fromTop="20" />
+    <File id="BD72B98D-C81A-4013-B606-94B4BA2273E5/f:UserPromptBehaviour.cs" caret="0" fromTop="0" />
+    <File id="BD72B98D-C81A-4013-B606-94B4BA2273E5/f:IUserValidator.cs" caret="0" fromTop="0" />
+    <File id="BD72B98D-C81A-4013-B606-94B4BA2273E5/f:BasicHttpExtensions.cs" caret="600" fromTop="16" />
+    <File id="BD72B98D-C81A-4013-B606-94B4BA2273E5/f:BasicAuthenticationConfiguration.cs" caret="169" fromTop="0" />
+    <File id="BD72B98D-C81A-4013-B606-94B4BA2273E5/f:BasicAuthentication.cs" caret="3502" fromTop="18" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:SecureModule.cs" caret="398" fromTop="13" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthModule.cs" caret="1286" fromTop="43" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthModule.cs" caret="191" fromTop="7" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthModule.cs" caret="452" fromTop="12" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:UserDatabase.cs" caret="1178" fromTop="33" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:UserDatabase.cs" caret="1264" fromTop="5" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:UserDatabase.cs" caret="128" fromTop="1" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthenticationBootstrapper.cs" caret="3111" fromTop="5" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthenticationBootstrapper.cs" caret="3112" fromTop="20" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthenticationBootstrapper.cs" caret="313" fromTop="1" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthenticationBootstrapper.cs" caret="1237" fromTop="17" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthenticationBootstrapper.cs" caret="3114" fromTop="15" />
+    <File id="5F2DD52D-471B-4946-8F7B-F050C88EFC52/f:AuthenticationBootstrapper.cs" caret="1091" fromTop="24" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:TokenAuthBootstrapper.cs" caret="1495" fromTop="23" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:TokenAuthBootstrapper.cs" caret="838" fromTop="14" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:TokenAuthBootstrapper.cs" caret="1351" fromTop="20" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:TokenAuthBootstrapper.cs" caret="291" fromTop="10" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:TokenAuthBootstrapper.cs" caret="648" fromTop="18" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:UserValidator.cs" caret="26" fromTop="0" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:TokenAuthBootstrapper.cs" caret="906" fromTop="22" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:AuthModule.cs" caret="1004" fromTop="10" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:UserValidator.cs" caret="419" fromTop="11" />
+    <File id="35460AA4-B94A-4B64-9418-7243EC3D2F01/f:AuthModule.cs" caret="1090" fromTop="20" />
+  </RecentEdits>
+</RecentFiles>

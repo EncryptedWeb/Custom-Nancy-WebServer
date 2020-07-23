@@ -1,0 +1,16 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.Demo.Caching.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.Demo.Caching.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.ViewEngines.Razor.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\System.Web.Razor.Unofficial.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.Hosting.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.Hosting.Aspnet.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.ViewEngines.Razor.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.ViewEngines.Razor.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\bin\System.Web.Razor.Unofficial.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\obj\Debug\Nancy.Demo.Caching.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\obj\Debug\Nancy.Demo.Caching.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Caching\obj\Debug\Nancy.Demo.Caching.csprojResolveAssemblyReference.cache

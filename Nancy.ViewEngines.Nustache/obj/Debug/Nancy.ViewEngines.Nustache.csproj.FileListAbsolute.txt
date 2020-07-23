@@ -1,0 +1,10 @@
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\bin\Debug\Nancy.ViewEngines.Nustache.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\bin\Debug\Nancy.ViewEngines.Nustache.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\bin\Debug\Nustache.Core.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\obj\Debug\Nancy.ViewEngines.Nustache.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\obj\Debug\Nancy.ViewEngines.Nustache.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\obj\Debug\Nancy.ViewEngines.Nustache.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Nustache\bin\Debug\Nancy.ViewEngines.Nustache.XML

@@ -1,0 +1,10 @@
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\bin\Debug\Nancy.ViewEngines.Spark.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\bin\Debug\Nancy.ViewEngines.Spark.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\bin\Debug\Spark.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\obj\Debug\Nancy.ViewEngines.Spark.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\obj\Debug\Nancy.ViewEngines.Spark.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\obj\Debug\Nancy.ViewEngines.Spark.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.Spark\bin\Debug\Nancy.ViewEngines.Spark.XML

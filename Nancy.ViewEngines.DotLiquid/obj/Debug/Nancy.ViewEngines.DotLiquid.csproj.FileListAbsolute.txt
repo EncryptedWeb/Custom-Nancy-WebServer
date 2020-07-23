@@ -1,0 +1,11 @@
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\Nancy.ViewEngines.DotLiquid.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\Nancy.ViewEngines.DotLiquid.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\DotLiquid.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\it\DotLiquid.resources.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\obj\Debug\Nancy.ViewEngines.DotLiquid.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\obj\Debug\Nancy.ViewEngines.DotLiquid.dll
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\obj\Debug\Nancy.ViewEngines.DotLiquid.pdb
+D:\Other\Programming\Nancy\src\Nancy.ViewEngines.DotLiquid\bin\Debug\Nancy.ViewEngines.DotLiquid.XML

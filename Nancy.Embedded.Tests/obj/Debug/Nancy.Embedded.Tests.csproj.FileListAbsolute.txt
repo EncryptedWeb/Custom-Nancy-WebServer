@@ -1,0 +1,16 @@
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Resources\embedded.txt
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.Embedded.Tests.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.Embedded.Tests.pdb
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.Embedded.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\xunit.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\xunit.extensions.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.Embedded.pdb
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.Embedded.xml
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\xunit.xml
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\bin\Debug\xunit.extensions.xml
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\obj\Debug\Nancy.Embedded.Tests.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\obj\Debug\Nancy.Embedded.Tests.dll
+D:\Other\Programming\Nancy\src\Nancy.Embedded.Tests\obj\Debug\Nancy.Embedded.Tests.pdb

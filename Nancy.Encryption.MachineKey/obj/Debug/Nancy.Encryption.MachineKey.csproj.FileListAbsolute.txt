@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\bin\Debug\Nancy.Encryption.MachineKey.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\bin\Debug\Nancy.Encryption.MachineKey.pdb
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\obj\Debug\Nancy.Encryption.MachineKey.dll
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\obj\Debug\Nancy.Encryption.MachineKey.pdb
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\bin\Debug\Nancy.Encryption.MachineKey.XML
+D:\Other\Programming\Nancy\src\Nancy.Encryption.MachineKey\obj\Debug\Nancy.Encryption.MachineKey.csprojResolveAssemblyReference.cache

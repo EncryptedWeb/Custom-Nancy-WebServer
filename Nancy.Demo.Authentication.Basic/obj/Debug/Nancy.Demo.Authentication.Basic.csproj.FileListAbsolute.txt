@@ -1,0 +1,14 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Demo.Authentication.Basic.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Demo.Authentication.Basic.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Authentication.Basic.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Authentication.Basic.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Authentication.Basic.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Hosting.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.Hosting.Aspnet.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\bin\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\obj\Debug\Nancy.Demo.Authentication.Basic.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\obj\Debug\Nancy.Demo.Authentication.Basic.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Authentication.Basic\obj\Debug\Nancy.Demo.Authentication.Basic.pdb

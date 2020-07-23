@@ -1,0 +1,21 @@
+<Modules>
+  <Module PersistentId="34576216-0DCA-4B0F-A0DC-9075E75A676F" ModuleId="Nancy" />
+  <Module PersistentId="35460AA4-B94A-4B64-9418-7243EC3D2F01" ModuleId="Nancy.Demo.Authentication.Token" />
+  <Module PersistentId="97FA024A-F6ED-4086-BCC1-1A51BE63474C" ModuleId="Nancy.Authentication.Token" />
+  <Module PersistentId="9121DA01-7BFD-49F0-9937-0D3E7875ADB9" ModuleId="Nancy.Demo.Authentication.Token.TestingDemo" />
+  <Module PersistentId="AA7F66EB-EC2C-47DE-855F-30B3E6EF2134" ModuleId="Nancy.Hosting.Self" />
+  <Module PersistentId="5F2DD52D-471B-4946-8F7B-F050C88EFC52" ModuleId="Nancy.Demo.Authentication" />
+  <Module PersistentId="D79203C0-B672-4751-9C95-C3AB7D3FEFBE" ModuleId="Nancy.Testing" />
+  <Module PersistentId="911196F4-B88F-4940-B1FD-D30F5290D06D" ModuleId="Nancy.Demo.Authentication.Basic" />
+  <Module PersistentId="BD72B98D-C81A-4013-B606-94B4BA2273E5" ModuleId="Nancy.Authentication.Basic" />
+  <Module PersistentId="15B7F794-0BB2-4B66-AD78-4A951F1209B2" ModuleId="Nancy.Hosting.Aspnet" />
+  <Module PersistentId="FBC35268-377B-4DBE-87E3-B22D1314BEC6" ModuleId="Nancy.Validation.FluentValidation.Tests" />
+  <Module PersistentId="F417B81C-B914-4BFD-8299-6BBD11072B01" ModuleId="Nancy.Demo.Validation" />
+  <Module PersistentId="776D244D-BC4D-4BBB-A478-CAF2D04520E1" ModuleId="Nancy.Tests" />
+  <Module PersistentId="4E974051-38C2-4B5D-A6B1-F265A428A673" ModuleId="Nancy.Authentication.Forms.Tests" />
+  <Module PersistentId="2C6F51DF-015C-4DB6-B44C-0E5E4F25E2A9" ModuleId="Nancy.ViewEngines.Razor" />
+  <Module PersistentId="2026DD2D-E041-4A14-8A04-D5B39B8B7C40" ModuleId="Nancy.Authentication.Basic.Tests" />
+  <Module PersistentId="BAE74CD5-57C2-40E3-8F7A-EDE5721C2ACC" ModuleId="Nancy.Demo.Authentication.Stateless" />
+  <Module PersistentId="211560C3-FDDF-46D6-AB0C-F3BC04B173B5" ModuleId="Nancy.Authentication.Stateless" />
+  <Module PersistentId="3C131D45-AF1D-4659-8B26-A9F55EED0D20" ModuleId="Nancy.Authentication.Token.Tests" />
+</Modules>

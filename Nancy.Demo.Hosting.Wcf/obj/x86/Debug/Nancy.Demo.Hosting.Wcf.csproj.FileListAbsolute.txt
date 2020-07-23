@@ -1,0 +1,13 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Views\staticview.html
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.Demo.Hosting.Wcf.exe.config
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.Demo.Hosting.Wcf.exe
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.Demo.Hosting.Wcf.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.Hosting.Wcf.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.Hosting.Wcf.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.Hosting.Wcf.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\obj\x86\Debug\Nancy.Demo.Hosting.Wcf.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\obj\x86\Debug\Nancy.Demo.Hosting.Wcf.exe
+D:\Other\Programming\Nancy\src\Nancy.Demo.Hosting.Wcf\obj\x86\Debug\Nancy.Demo.Hosting.Wcf.pdb

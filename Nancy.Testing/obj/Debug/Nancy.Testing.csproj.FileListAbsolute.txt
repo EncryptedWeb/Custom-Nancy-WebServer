@@ -1,0 +1,16 @@
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.Testing.dll
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.Testing.pdb
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\CsQuery.dll
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.Authentication.Forms.dll
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.Authentication.Forms.pdb
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.Authentication.Forms.xml
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\CsQuery.xml
+D:\Other\Programming\Nancy\src\Nancy.Testing\obj\Debug\Nancy.Testing.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy.Testing\obj\Debug\Nancy.Testing.Properties.Resources.resources
+D:\Other\Programming\Nancy\src\Nancy.Testing\obj\Debug\Nancy.Testing.csproj.GenerateResource.Cache
+D:\Other\Programming\Nancy\src\Nancy.Testing\obj\Debug\Nancy.Testing.dll
+D:\Other\Programming\Nancy\src\Nancy.Testing\obj\Debug\Nancy.Testing.pdb
+D:\Other\Programming\Nancy\src\Nancy.Testing\bin\Debug\Nancy.Testing.XML

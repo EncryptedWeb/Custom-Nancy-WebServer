@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nancy.Embedded</name>
+    </assembly>
+    <members>
+        <member name="M:Nancy.Embedded.Conventions.EmbeddedStaticContentConventionBuilder.AddDirectory(System.String,System.Reflection.Assembly,System.String,System.String[])">
+            <summary>
+            Adds a directory-based convention for embedded static convention.
+            </summary>
+            <param name="requestedPath">The path that should be matched with the request.</param>
+            <param name="contentPath">The path to where the content is stored in your application, relative to the root. If this is <see langword="null"/> then it will be the same as <paramref name="requestedPath"/>.</param>
+            <param name="allowedExtensions">A list of extensions that is valid for the conventions. If not supplied, all extensions are valid.</param>
+            <returns>A <see cref="T:Nancy.Responses.EmbeddedFileResponse"/> instance for the requested embedded static contents if it was found, otherwise <see langword="null"/>.</returns>
+        </member>
+        <member name="M:Nancy.Embedded.Conventions.EmbeddedStaticContentConventionBuilder.IsWithinContentFolder(System.String,System.String)">
+            <summary>
+            Returns whether the given filename is contained within the content folder
+            </summary>
+            <param name="contentRootPath">Content root path</param>
+            <param name="fileName">Filename requested</param>
+            <returns>True if contained within the content root, false otherwise</returns>
+        </member>
+    </members>
+</doc>

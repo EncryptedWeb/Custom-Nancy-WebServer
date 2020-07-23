@@ -1,0 +1,16 @@
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.Demo.Bootstrapping.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.Demo.Bootstrapping.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.Hosting.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.ViewEngines.Razor.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\System.Web.Razor.Unofficial.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.Hosting.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.Hosting.Aspnet.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.ViewEngines.Razor.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.ViewEngines.Razor.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\bin\System.Web.Razor.Unofficial.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\obj\Debug\Nancy.Demo.Bootstrapping.Aspnet.dll
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\obj\Debug\Nancy.Demo.Bootstrapping.Aspnet.pdb
+D:\Other\Programming\Nancy\src\Nancy.Demo.Bootstrapper.Aspnet\obj\Debug\Nancy.Demo.Bootstrapping.Aspnet.csprojResolveAssemblyReference.cache

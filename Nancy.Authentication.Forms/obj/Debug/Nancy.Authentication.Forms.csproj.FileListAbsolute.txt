@@ -1,0 +1,9 @@
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\bin\Debug\Nancy.Authentication.Forms.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\bin\Debug\Nancy.Authentication.Forms.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\bin\Debug\Nancy.xml
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\obj\Debug\Nancy.Authentication.Forms.dll
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\obj\Debug\Nancy.Authentication.Forms.pdb
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\bin\Debug\Nancy.Authentication.Forms.XML
+D:\Other\Programming\Nancy\src\Nancy.Authentication.Forms\obj\Debug\Nancy.Authentication.Forms.csprojResolveAssemblyReference.cache

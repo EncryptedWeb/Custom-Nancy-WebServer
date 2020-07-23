@@ -1,0 +1,6 @@
+D:\Other\Programming\Nancy\src\Nancy\bin\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy\bin\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy\obj\Debug\Nancy.dll
+D:\Other\Programming\Nancy\src\Nancy\obj\Debug\Nancy.pdb
+D:\Other\Programming\Nancy\src\Nancy\obj\Debug\Nancy.csprojResolveAssemblyReference.cache
+D:\Other\Programming\Nancy\src\Nancy\bin\Debug\Nancy.XML
